@@ -2,7 +2,7 @@
 
 This class includes a drawing histogram, pies and pseudo 3D pies.  
 It has very simple API and high level usability.  
-http://qt-apps.org/content/show.php?action=content&content=132560  
+https://www.linux-apps.com/content/show.php/NightCharts%28Draw+Charts%29?content=132560 
 
 Licensed under LGPL 2.1  
 
@@ -28,7 +28,11 @@ Example :
         PieChart.drawLegend(&painter);
     }
 
-![3DPie example](http://qt-apps.org/CONTENT/content-pre1/132560-1.PNG)
+![3DPie example](https://cn.opendesktop.org/img//hive/content-pre1/132560-1.PNG)
+
+![3DPie example](https://cn.opendesktop.org/img//hive/content-pre2/132560-2.PNG)
+
+![3DPie example](https://cn.opendesktop.org/img//hive/content-pre3/132560-3.PNG)
 
 ### How to use
 
